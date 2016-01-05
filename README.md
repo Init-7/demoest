@@ -1,1 +1,7 @@
-# demoest
+## Demoest
+
+Demo app
+
+#### License
+
+MIT
